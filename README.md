@@ -5,6 +5,8 @@ https://ktmeaton.github.io/DHSI2019-git/
 
 Author: Katherine Eaton  
 Created: 2019-06-10
+Contributor: Katherine Hepworth
+Updated: 2019-06-14
 
 ## Contents 
 [Part 1.](#part-1-create-a-github-account) Create a GitHub Account  
